@@ -11,8 +11,7 @@
 <li>Encapsulamento;
 
 <br></br>
-<br></br>
-<p> Além dos pilares da programação orientada a objetos, foram revisadas estruturas de dados como Set, List, ArrayList, conceitos de classe, objeto, atributos, construtores e alguns conceitos de especificadores de acesso.
+<p> Além dos pilares da programação orientada a objetos, foram revisadas estruturas de dados como Set, List, ArrayList, conceitos de classe, objetos, atributos, construtores e alguns conceitos de especificadores de acesso.
 
 
 
